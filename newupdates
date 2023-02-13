@@ -1,5 +1,5 @@
--  Nueva pantalla de carga.
--  Nueva intefaz de personalización.
--  Nuevo minimapa y hud components.
--  Se cambió el sonido de las armas.
--  Nuevos scripts para facciones gubernamentales.
+- Se agregó una pantalla de carga.
+- Se agregó hud components para la interfaz del mapa.
+- Se agregó un mapa postal y un geolocalizador de calles.
+- Se agregó y corrigió la versión del juego.
+- Entre otras cosas.
