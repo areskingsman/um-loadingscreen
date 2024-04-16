@@ -1,6 +1,8 @@
 - Se agregó una pantalla de carga.
 - Se agregó hud components para la interfaz del mapa.
-- Se agregó y corrigió la versión del juego.
-- Se agregó el extra-menú para elegir las liverys.
+- Se corrigió la versión del juego.
+- Se agregó un extra-menú para elegir las liverys.
+- Se agregó un veh-menú para mayor utilidad.
 - Se agregó el NativeUI.
+- Se agregó el ayuntamiento.
 - Entre otras cosas.
