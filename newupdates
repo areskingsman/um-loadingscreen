@@ -1,7 +1,8 @@
-- Add the Bob74_ipl.
-- Add the GTA: Remastered Enhanced.
-- Fix the server build version.
-- Fix the game build version.
-- Fix the esx_identity error.
-- Fix the illenium-appearance error.
-- Fix the mainhall texture bugs.
+- Added Bob74_ipl.
+- Added GTA: Remastered Enhanced.
+- Added Discord Presence. (whit fix)
+- Fixed server build version.
+- Fixed game build version.
+- Fixed esx_identity error.
+- Fixed illenium-appearance error.
+- Fixed town hall texture bugs.
