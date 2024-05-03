@@ -1,6 +1,7 @@
-- Se efectuaron correcciones en la versión del juego.
-- Se agregaron HUD Components para la interfaz.
-- Se implementó un vehicle-menu.
-- Se agregaron nuevos interiores.
-
-¡Para conocer todos los cambios, revisa nuestro canal de Discord! 😄
+- Add the Bob74_ipl.
+- Add the GTA: Remastered Enhanced.
+- Fix the server build version.
+- Fix the game build version.
+- Fix the esx_identity error.
+- Fix the illenium-appearance error.
+- Fix the mainhall texture bugs.
